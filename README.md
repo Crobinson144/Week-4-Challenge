@@ -2,6 +2,8 @@
 
 We were given a challenge with these parameters.
 
+**Status:** this repository currently contains only the assignment description below; the quiz code is not included here.
+
 AS A coding boot camp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
